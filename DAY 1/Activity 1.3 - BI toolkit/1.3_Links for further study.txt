@@ -1,0 +1,32 @@
+Amazon resources for QuickSight
+https://docs.aws.amazon.com/quicksight/latest/user/example-create-an-analysis.html
+https://docs.aws.amazon.com/quicksight/latest/user/working-with-visual-types.html
+https://eu-central-1.quicksight.aws.amazon.com/sn/tutorial-videos
+https://docs.aws.amazon.com/quicksight/latest/user/functions-by-category.html
+
+Other sources for QuickSight
+beginners tutorial: www.youtube.com/watch?v=hh6ItJbCUQ0
+quicksight actions: www.youtube.com/watch?v=yDfFBRjHFs0
+https://medium.com/zenofai/how-to-customize-quicksight-dashboards-for-user-specific-data-dd33ac6f19ec
+
+Types of graphs
+https://datavizcatalogue.com/
+What data - what graph
+https://www.data-to-viz.com/
+
+Twitter: @storywithdata
+Book: Storytelling with Data - Cole Knaflic
+website: www.storytellingwithdata.com
+
+Twitter: @infobeautiful
+Book: Knowledge is beautiful - David McCandless
+website: https://informationisbeautiful.net/
+
+Twitter:@studioterp
+website: https://www.studioterp.nl/
+
+More examples of data misrepresentation:
+https://medium.com/swlh/statistics-the-art-of-deception-f48a86d57df1
+
+How to avoid data visualisation mistakes:
+https://www.toptal.com/designers/ux/data-visualization-mistakes
